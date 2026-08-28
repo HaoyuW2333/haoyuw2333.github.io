@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully finished my research internship at the Bosch Center for Artificial Intelligence (BCAI)! See you Pittsburgh! :partying_face:
+Successfully finished my research internship at BCAI! See you Pittsburgh! :partying_face:
